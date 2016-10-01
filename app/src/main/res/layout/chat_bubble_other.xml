@@ -18,7 +18,7 @@
         android:id="@+id/bubble_layout_other"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="25dp"
         android:background="@drawable/bubble1">
 
         <TextView
